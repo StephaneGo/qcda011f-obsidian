@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cours-java-avance/lombok.md",
+                "file": "les bases du markdown A SUPPRIMER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lombok"
+              "title": "les bases du markdown A SUPPRIMER"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -170,13 +171,15 @@
   },
   "active": "f26b09dc39407e3f",
   "lastOpenFiles": [
-    "tags/-Spring framework.md",
+    "tags/-Markdown.md",
+    "les bases du markdown A SUPPRIMER.md",
+    "modeles/Note de base.md",
     "tags/-Java.md",
+    "tags/-Spring framework.md",
+    "cours-java-avance/lombok.md",
     "Spring Framework.md",
     "Java.md",
-    "cours-java-avance/lombok.md",
     "Bienvenue.md",
-    "modeles/Note de base.md",
     "cours-java-avance",
     "tags",
     "Nouveau dossier",
