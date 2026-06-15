@@ -7,11 +7,12 @@ Tags:
 [[-Java]]
 # Notes
 
-### Spécifier les profiles
+### 1. Profiles
+
 ```yaml
 spring:
   profiles:
-    active: "dev,hsqldb"
+    active: "mock"
 ```
 
 # Références
