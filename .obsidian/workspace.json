@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cours-java-avance/application.yaml.md",
+                "file": "cours-java-avance/shadowing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "application.yaml"
-            }
-          },
-          {
-            "id": "d170cee62c6ac316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cours-java-avance/application.yaml.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "application.yaml"
+              "title": "shadowing"
             }
           },
           {
@@ -213,17 +199,17 @@
   },
   "active": "f26b09dc39407e3f",
   "lastOpenFiles": [
-    "tags/-Apprendre.md",
+    "Bases du mardown.md",
+    "cours-java-avance/shadowing.md",
+    "cours-java-avance/application.yaml.md",
     "mieux-apprendre/Fonctionnement de la mémoire pour mieux apprendre.md",
+    "tags/-Apprendre.md",
     "mieux-apprendre",
     "cours-java-avance/lombok.md",
-    "Bases du mardown.md",
     "Bienvenue.md",
     "les bases du markdown A SUPPRIMER.md",
-    "cours-java-avance/shadowing.md",
     "modeles/Note de base.md",
     "tags/-Java.md",
-    "cours-java-avance/application.yaml.md",
     "tags/-Environment.md",
     "tags/-Markdown.md",
     "tags/-Spring framework.md",

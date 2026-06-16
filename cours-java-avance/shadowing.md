@@ -5,9 +5,10 @@ Tags: [[-Java]]
 
 # Notes
 
-Nous parlons de **shadowing** lorsqu'un attribut porte le même nom qu'un argument.
+Nous parlons de **shadowing** lorsqu'un argument porte le même nom qu'un attribut.
+*L'argument fait de l'ombre à l'attribut.*
 
-**Ceci est du shadowing** 
+- **Ceci est du shadowing** 
 ```java
 private String name;  
 
@@ -17,7 +18,7 @@ public User(String name) {
 }
 ```
 
-**Ceci n'est pas du shadowing**
+- **Ceci n'est pas du shadowing**
 ```java
 private String name;  
 
