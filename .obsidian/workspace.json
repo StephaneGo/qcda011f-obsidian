@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "SOLID"
             }
+          },
+          {
+            "id": "db48e21b56ca3052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours-java-avance/gitignore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gitignore"
+            }
+          },
+          {
+            "id": "a695f514983d4689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours-java-avance/gitignore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gitignore"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -214,9 +242,11 @@
   },
   "active": "7abe9f499574f60f",
   "lastOpenFiles": [
+    "tags/-Git.md",
+    "cours-java-avance/gitignore.md",
+    "conception/SOLID.md",
     "conception",
     "conception/KISS.md",
-    "conception/SOLID.md",
     "Test.md",
     "Bienvenue.md",
     "tags/-Principe de conception.md",
