@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID.md",
+                "file": "conception/SOLID.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,10 +212,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e085968ea9168c81",
+  "active": "7abe9f499574f60f",
   "lastOpenFiles": [
-    "KISS.md",
-    "SOLID.md",
+    "conception",
+    "conception/KISS.md",
+    "conception/SOLID.md",
     "Test.md",
     "Bienvenue.md",
     "tags/-Principe de conception.md",
