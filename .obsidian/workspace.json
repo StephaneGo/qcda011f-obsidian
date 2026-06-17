@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "09a4b7acb5cd9b86",
+        "id": "8b2f6fe3eff439e6",
         "type": "tabs",
         "children": [
           {
-            "id": "dee61c81f4a08632",
+            "id": "0ba7ab82fc62a00f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mieux-apprendre/Fonctionnement de la mémoire pour mieux apprendre.md",
+                "file": "Bienvenue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fonctionnement de la mémoire pour mieux apprendre"
+              "title": "Bienvenue"
             }
           },
           {
-            "id": "7d7dc6d89ea02299",
+            "id": "20ab5b082ab929e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cours-java-avance/Configuration SpringDataJpa.md",
+                "file": "KISS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration SpringDataJpa"
+              "title": "KISS"
+            }
+          },
+          {
+            "id": "92bec75c9a0fadba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KISS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KISS"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,27 +198,29 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7abe9f499574f60f",
+  "active": "92bec75c9a0fadba",
   "lastOpenFiles": [
-    "tags/-JPA.md",
-    "cours-java-avance/Configuration SpringDataJpa.md",
+    "Test.md",
+    "tags/-Principe de conception.md",
+    "tags/-Spring framework.md",
+    "tags/-Markdown.md",
+    "KISS.md",
+    "Bienvenue.md",
     "cours-java-avance/application.yaml.md",
-    "mieux-apprendre/Fonctionnement de la mémoire pour mieux apprendre.md",
     "cours-java-avance/shadowing.md",
-    "les bases du markdown A SUPPRIMER.md",
+    "cours-java-avance/Configuration SpringDataJpa.md",
+    "cours-java-avance/lombok.md",
+    "tags/-JPA.md",
+    "Bases du mardown.md",
+    "mieux-apprendre/Fonctionnement de la mémoire pour mieux apprendre.md",
     "tags/-Apprendre.md",
     "mieux-apprendre",
-    "tags/-Spring framework.md",
-    "Bases du mardown.md",
-    "tags/-Environment.md",
-    "Nouveau document texte.txt",
-    "tags/-Markdown.md",
+    "les bases du markdown A SUPPRIMER.md",
     "modeles/Note de base.md",
     "tags/-Java.md",
-    "cours-java-avance/lombok.md",
+    "tags/-Environment.md",
     "Spring Framework.md",
     "Java.md",
-    "Bienvenue.md",
     "cours-java-avance",
     "tags",
     "Nouveau dossier",
