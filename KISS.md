@@ -1,5 +1,4 @@
 
-
 Date: 17/06/2026
 Tags: [[-Principe de conception]]
 
@@ -7,7 +6,7 @@ Tags: [[-Principe de conception]]
 
 - **KISS**
 
-*“**K**eep it **S**imple, **S**tupid”* Le principe Kiss pour *“**K**eep it **S**imple, **S**tupid”* est un principe de conception qui signifie qu'il faut favoriser la simplicité dans la conception et éviter toute complexité inutile.
+Le principe Kiss pour *“Keep it Simple, Stupid”* est un principe de conception qui signifie qu'il faut favoriser la simplicité dans la conception et éviter toute complexité inutile.
 
 # Références
 
