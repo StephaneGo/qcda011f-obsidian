@@ -1,4 +1,5 @@
-[[-Java]] 
+[[-Tests]] 
+
 ## Mnémotechnique - AAA
 
 - **Arrange = préparation du test**
