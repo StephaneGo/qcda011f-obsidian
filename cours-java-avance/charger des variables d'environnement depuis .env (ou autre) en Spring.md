@@ -59,7 +59,10 @@ app:
     url: ${app.db.url}
 ```
 
-
+##### NOTE : 
+Le fichier application-local.yaml ou config/application-local.yaml doit être ajouté à la racine du projet.
+ ![[Pasted image 20260618165432.png]]
+Ne pas oublier d'ajouter application-local.yaml au fichier .gitignore et de créer un application-local-example-yaml, qui lui, sera ajouté au dépôt git pour indiquer à vos collaborateurs comment fournir les informations de connexion.
 ## Si tu veux garder le nom `.env`
 
 Deux possibilités réalistes :
